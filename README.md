@@ -6,9 +6,6 @@ Hi there, this is Isaac, a self-taught developer from Hong Kong.
 <p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isaacc16&theme=vue-dark&border_radius=3.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
 
 <!--
 **isaacc16/isaacc16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
